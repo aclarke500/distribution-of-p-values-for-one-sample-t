@@ -1,1 +1,2 @@
 # distribution-of-p-values-for-one-sample-t
+<a href="https://ibb.co/9NppjqX"><img src="https://i.ibb.co/Dt11n7X/Figure-1.png" alt="Figure-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload images</a><br />
