@@ -1,2 +1,5 @@
 # distribution-of-p-values-for-one-sample-t
+<h1>Methods</h1>
+<p>In Book1.csv, we have 50 random numbers between 1 and 100. </p>
+<br><p>We import them into a Python script, and run a one-sample t-test on it repeatedly. We increment the predicted average, and can observe a normal distribution following the p-values. We can see the peak around 50ish as we would expect to be the average. This makes sense, seeing as a p-value in this case is simply the probability of a given number being the average. So as we tend further away from the average, the probability converges to 0. What is interesting is the number 92.7, the max. Is this a limit, or is this itself a random number? </p>
 <a href="https://ibb.co/9NppjqX"><img src="https://i.ibb.co/Dt11n7X/Figure-1.png" alt="Figure-1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload images</a><br />
